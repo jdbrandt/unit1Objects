@@ -1,4 +1,4 @@
-public class Test
+public class EmergencyBroadcast
 {
     public static void main(String[] args)
     {
